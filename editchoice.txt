@@ -1,0 +1,7 @@
+* * YOU WANT TO * *
+1.Edit Product ID
+2.Edit Product Name
+3.Edit Product Category
+4.Edit Product Type
+5.Edit Product Color
+6.Edit Product Rates

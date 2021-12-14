@@ -1,0 +1,5 @@
+FOR BUYER
+
+1.To view product
+2.To filter search
+3.To purchase product and generate bill
